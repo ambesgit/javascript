@@ -1,4 +1,4 @@
-function computingFunc(){
+;(function(){
     var that=this;
     var keyword="";//search word will be contatnation to create the ongoing key press by users
     var dat="continent";
@@ -1933,4 +1933,4 @@ this.originOf=function(event){
 };
 
 return that;
-}
+}());
